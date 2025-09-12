@@ -1,0 +1,6 @@
+app.py
+model.pkl
+vectorizer.pkl
+requirements.txt
+README.md
+.gitignore   (optional)
